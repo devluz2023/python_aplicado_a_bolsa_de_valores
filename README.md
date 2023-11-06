@@ -1,0 +1,1 @@
+# python_aplicado_a_bolsa_de_valores
